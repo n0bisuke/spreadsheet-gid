@@ -1,0 +1,16 @@
+{
+  "name": "spreadsheet-gid",
+  "version": "0.0.1",
+  "description": "get spreadsheet gid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "spreadsheet",
+    "google"
+  ],
+  "author": "n0bisuke",
+  "license": "MIT"
+}
